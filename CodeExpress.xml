@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Configurations>
+  <maxThreads>6</maxThreads>
+  <scriptsFolder>Scripts</scriptsFolder>
+  <storePrefix>pr_</storePrefix>
+  <dateAddedFields>CreatedDate,UpdatedDate</dateAddedFields>
+  <dateAddedFieldsType>servernow</dateAddedFieldsType>
+  <dateModifiedFields>UpdatedDate</dateModifiedFields>
+  <dateModifiedFieldsType>servernow</dateModifiedFieldsType>
+  <concurrencyFields>UpdatedBy,UpdatedDate</concurrencyFields>
+  <extendedKeys>Period</extendedKeys>
+  <EntityTablePrefix>ET</EntityTablePrefix>
+  <entityPrefix>ET</entityPrefix>
+  <classesFolder>{ProjectPath}\Models</classesFolder>
+  <namespace>{ProjectName}.Models</namespace>
+  <contextName>{DatabaseName}</contextName>
+  <dbsetSuffix>DS</dbsetSuffix>
+  <serverName>.</serverName>
+  <databaseName>master</databaseName>
+  <sqlProvider>SQL Server</sqlProvider>
+  <languageDBName>master</languageDBName>
+  <userID>
+  </userID>
+  <password>
+  </password>
+  <textProperties>Text;Caption;EditValue</textProperties>
+  <messageMethods>Msg;Message;message</messageMethods>
+  <languageMethods>Msg.MsgLng;Lng</languageMethods>
+  <localizationMethod>Lng</localizationMethod>
+</Configurations>
