@@ -1,0 +1,15 @@
+CREATE TABLE Budgets
+(
+ Id int PRIMARY KEY IDENTITY,
+ UserId INT NOT NULL,
+ CategoryId INT NOT NULL,
+ AmountLimit DECIMAL(18, 2) NOT NULL,
+ BudgetMonth CHAR(7) NOT NULL,
+
+ Active bit DEFAULT (0),
+ CreatedAt DATETIME2 DEFAULT GETDATE(),
+ UpdatedAt DATETIME2 DEFAULT GETDATE(),
+
+ CONSTRAINT FK_Budgets_Users FOREIGN KEY (UserId) REFERENCES Users(Id),
+ CONSTRAINT FK_Budgets_Categories FOREIGN KEY (CategoryId) REFERENCES Categories(Id)
+)
