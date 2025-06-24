@@ -64,3 +64,6 @@ E:\Projects\FinacialManagement\FinancialManagement\bin\Debug\net8.0\Scripts\Tabl
 E:\Projects\FinacialManagement\FinancialManagement\bin\Debug\net8.0\Scripts\Tables\Create\004_Wallets.sql
 E:\Projects\FinacialManagement\FinancialManagement\bin\Debug\net8.0\Scripts\Tables\Create\005_Reminders.sql
 E:\Projects\FinacialManagement\FinancialManagement\bin\Debug\net8.0\Scripts\Tables\Create\006_Transactions.sql
+E:\Projects\FinacialManagement\FinancialManagement\bin\Debug\net8.0\Scripts\StoreProcedures\Users\sp_Login.sql
+E:\Projects\FinacialManagement\FinancialManagement\bin\Debug\net8.0\Scripts\StoreProcedures\Users\sp_Register.sql
+E:\Projects\FinacialManagement\FinancialManagement\bin\Debug\net8.0\Scripts\Tables\Update\001_Users_Update.sql

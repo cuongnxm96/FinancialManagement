@@ -7,6 +7,7 @@ CREATE TABLE Users
  PhoneNumber NVARCHAR (20),
  BirthDate DATE,
  RoleID int not null,
+ PasswordHash NVARCHAR(MAX),
 
  Active bit DEFAULT (0),
  CreatedAt DATETIME2 DEFAULT GETDATE(),

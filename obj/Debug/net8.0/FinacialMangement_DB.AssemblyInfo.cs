@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinacialMangement_DB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a76f2a56b16a006aed1d6786d6d1b94b7ea3f3bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+473750994bb8edd225041cae1521628e4ab850c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinacialMangement_DB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinacialMangement_DB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
