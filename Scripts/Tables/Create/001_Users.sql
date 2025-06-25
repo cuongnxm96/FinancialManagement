@@ -6,7 +6,6 @@ CREATE TABLE Users
  Email NVARCHAR(50),
  PhoneNumber NVARCHAR (20),
  BirthDate DATE,
- RoleID int not null,
  PasswordHash NVARCHAR(MAX),
 
  Active bit DEFAULT (0),

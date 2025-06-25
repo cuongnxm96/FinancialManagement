@@ -5,7 +5,8 @@ CREATE PROCEDURE sp_Login
 
 AS
 BEGIN
- SET NOCOUNT ON;
+ SET NOCOUNT ON
+ SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED
  -- Declare local variables to avoid multiple queries
  DECLARE @LocalEmail NVARCHAR(50)
  DECLARE @LocalPassword NVARCHAR(MAX)

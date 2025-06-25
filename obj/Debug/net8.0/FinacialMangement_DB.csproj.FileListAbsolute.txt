@@ -67,3 +67,9 @@ E:\Projects\FinacialManagement\FinancialManagement\bin\Debug\net8.0\Scripts\Tabl
 E:\Projects\FinacialManagement\FinancialManagement\bin\Debug\net8.0\Scripts\StoreProcedures\Users\sp_Login.sql
 E:\Projects\FinacialManagement\FinancialManagement\bin\Debug\net8.0\Scripts\StoreProcedures\Users\sp_Register.sql
 E:\Projects\FinacialManagement\FinancialManagement\bin\Debug\net8.0\Scripts\Tables\Update\001_Users_Update.sql
+E:\Projects\FinacialManagement\FinancialManagement\bin\Debug\net8.0\Scripts\StoreProcedures\Users\sp_GetUserByID.sql
+E:\Projects\FinacialManagement\FinancialManagement\bin\Debug\net8.0\Scripts\StoreProcedures\Users\sp_SetLoginToken.sql
+E:\Projects\FinacialManagement\FinancialManagement\bin\Debug\net8.0\Scripts\Tables\Create\007_Roles.sql
+E:\Projects\FinacialManagement\FinancialManagement\bin\Debug\net8.0\Scripts\Tables\Create\008_UserRoles.sql
+E:\Projects\FinacialManagement\FinancialManagement\bin\Debug\net8.0\Scripts\Tables\Update\002_Users_Update.sql
+E:\Projects\FinacialManagement\FinancialManagement\bin\Debug\net8.0\Scripts\Tables\Create\009_Tokens.sql
